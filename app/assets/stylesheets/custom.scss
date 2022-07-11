@@ -5,6 +5,9 @@
 
 $gray-medium-light: #eaeaea;
 
+/* navigation bar */
+
+
 /* universal */
 
 body {
@@ -66,7 +69,7 @@ p {
   padding-top: 9px;
   font-weight: bold;
   &:hover {
-    color: gray;
+    color: white;
     text-decoration: none;
   }
 }
